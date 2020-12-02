@@ -66,19 +66,23 @@ Password: admin
 
 ### Welcome:
 
-![alt text](./Readme_images/welcome.jpeg "Welcome")
+![alt text](./Readme_images/welcome.jpg "Welcome")
 
 ### Module:
 
-![alt text](./Readme_images/module.jpeg "Module")
+![alt text](./Readme_images/module.jpg "Module")
 
 ### Home Student:
 
-![alt text](./Readme_images/student.jpeg "Home Student")
+![alt text](./Readme_images/student.jpg "Home Student")
+
+### Admin Groups:
+
+![alt text](./Readme_images/groups.jpg "Admin groups")
 
 ### Chat:
 
-![alt text](./Readme_images/chat.jpeg "Chat ")
+![alt text](./Readme_images/chat.jpg "Chat ")
 
 # About Us:
 
